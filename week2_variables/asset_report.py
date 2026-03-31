@@ -2,7 +2,7 @@
 analyst_name = input("Enter name: ")
 department_name = input("Enter Department: ")
 system_hostname = input("Enter Hostname: ")
-criticality = input(" Enter Critical Score: ")
+criticality = input("Enter Critical Score: ")
 risk_score = input("Enter a risk score (1-10): ")
 risk_score = int(risk_score)
 
